@@ -19,12 +19,17 @@ cd A-Analysis-and-Comparison-of-GAN-DC-GAN-W-GAN-and-Q-GAN
 python -m venv .venv
 ```
 
-# Activate virtual environment
-#### On Windows:
+### On Windows:
+#### PowerShell
 ```bash
+.venv\Scripts\activate.bat
+```
+#### Terminal
+``` terminal
 .venv\Scripts\activate
 ```
-#### On macOS/Linux:
+
+### On macOS/Linux:
 ```bash
 source .venv/bin/activate
 ```

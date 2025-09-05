@@ -39,7 +39,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 4: Run the Application
-```bash
-python main.py
-```
+### Usage: all the Machine Learning models are in [models] folder.

@@ -3,6 +3,7 @@ gen_images
 gan_training.gif
 test
 data
+models/MNIST
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
